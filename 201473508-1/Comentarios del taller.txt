@@ -1,0 +1,5 @@
+El taller fue un muy buena experiencia y muy util, principalmente debido a la necesidad de aplicar
+git en ramos como analisis y diseño de software.
+
+Creo que la dificultad fue adecuada, al igual que el orden de las clases. Fue positiva la mecanica de ir aumentanto la cantidad de personas para las actividades para entender como
+funciona git en un equipos con muchos integrantes.
