@@ -1,0 +1,3 @@
+En las primeras clases debería dosificarse un poco más la información para la gente que no está familiarizada con git.
+Deberían mostrarse algunos ejemplos en tiempo real para ciertas clases como de hooks, subtrees, etc; para comprender mejor
+el funcionamiento de estos.
