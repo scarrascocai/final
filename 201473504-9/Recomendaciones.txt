@@ -1,0 +1,4 @@
+No tengo muchos comentarios sobre qué mejorar, porque creo que manejaste bien el desarrollo de la asignatura, sólo dos sugerencias breves y mínimas.
+
+1.- En general, cualquier archivo que puedas poner a disposición en moodle deberías subirlo, es muy útil para el inteligente y el inepto (te lo dice un inepto). No puedo pensar en nada que se te haya olvidado subir, pero es bueno remarcarlo.
+2.- Sería bueno mostrar un Cthulu merge o tener una imagen del grafo resultante. Por razones.
